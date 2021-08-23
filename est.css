@@ -1,0 +1,33 @@
+div{
+    padding: 10px;
+    border: 2px lightblue solid;
+    margin-bottom: 10px;
+}
+
+html{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto{
+    width: 98%;
+    background-color: teal;
+    height: 350px;
+}
+
+.a{
+    padding: 10px;
+    margin: 10px;
+    border: 2px lightblue solid;
+    margin-bottom: 1px;
+    padding-bottom: 2px;
+}
+
+.b{
+    margin: 7px 10px;
+}
+
+.link{
+    color: whitesmoke;
+}
